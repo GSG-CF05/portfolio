@@ -79,3 +79,14 @@
 .skills-wrap img {
     padding: 20px;
 }
+
+.footer{
+    background-color: rgb(206, 180, 78);
+    text-align: center;
+}
+.fot{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-around;
+    font-size: .8rem;
+}
