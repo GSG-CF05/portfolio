@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+.container-navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.6rem;
+}
+.navbar{
+    background-color: rgb(206, 180, 78);
+    text-align: center;
+}
+
+.logo{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+}
